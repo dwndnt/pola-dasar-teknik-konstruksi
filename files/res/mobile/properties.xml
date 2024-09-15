@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="1"/>
+      <title value=""/>
+      <children>
+        <tocData>
+          <pageNumber value="2"/>
+          <title value="Kata Pengantar"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="3"/>
+          <title value="Petunjuk Penggunaan Flipbook"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="3"/>
+          <title value="Daftar Isi"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="5"/>
+          <title value="Informasi Umum"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="6"/>
+          <title value="Pertanyaan Pemantik"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="7"/>
+          <title value="Uraian Materi"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="26"/>
+          <title value="Asesmen"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="22"/>
+          <title value="Daftar Pustaka"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="23"/>
+          <title value="Glosarium"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="24"/>
+          <title value="Profil Pengembang"/>
+          <children/>
+        </tocData>
+      </children>
+    </tocData>
+  </tableOfContent>
+  <bookProperties>
+    <pages>
+      <defaultValue>
+        <BGColor value="13421772"/>
+        <width value="565"/>
+        <height value="800"/>
+        <slideshowDelay value="3100"/>
+      </defaultValue>
+      <elements>
+        <page>
+          <links/>
+          <id value="1"/>
+        </page>
+        <page>
+          <links/>
+          <id value="2"/>
+        </page>
+        <page>
+          <links/>
+          <id value="3"/>
+        </page>
+        <page>
+          <links/>
+          <id value="4"/>
+        </page>
+        <page>
+          <links/>
+          <id value="5"/>
+        </page>
+        <page>
+          <links/>
+          <id value="6"/>
+        </page>
+        <page>
+          <links/>
+          <id value="7"/>
+        </page>
+        <page>
+          <links/>
+          <id value="8"/>
+        </page>
+        <page>
+          <links/>
+          <id value="9"/>
+        </page>
+        <page>
+          <links/>
+          <id value="10"/>
+        </page>
+        <page>
+          <links/>
+          <id value="11"/>
+        </page>
+        <page>
+          <links/>
+          <id value="12"/>
+        </page>
+        <page>
+          <links/>
+          <id value="13"/>
+        </page>
+        <page>
+          <links/>
+          <id value="14"/>
+        </page>
+        <page>
+          <links/>
+          <id value="15"/>
+        </page>
+        <page>
+          <links/>
+          <id value="16"/>
+        </page>
+        <page>
+          <links/>
+          <id value="17"/>
+        </page>
+        <page>
+          <links/>
+          <id value="18"/>
+        </page>
+        <page>
+          <links/>
+          <id value="19"/>
+        </page>
+        <page>
+          <links/>
+          <id value="20"/>
+        </page>
+        <page>
+          <links/>
+          <id value="21"/>
+        </page>
+        <page>
+          <links/>
+          <id value="22"/>
+        </page>
+        <page>
+          <links/>
+          <id value="23"/>
+        </page>
+        <page>
+          <links/>
+          <id value="24"/>
+        </page>
+        <page>
+          <links/>
+          <id value="25"/>
+        </page>
+      </elements>
+    </pages>
+    <searchIndex ext="other/search.txt"/>
+    <bookId value="{94EBD4E4-B539-4A8D-B288-611FF7742689}"/>
+    <bookWidth value="565"/>
+    <bookHeight value="800"/>
+    <bookName value="PEMBUATAN POLA DASAR TEKNIK KONSTRUKSI"/>
+    <bookBG src="other/background.jpg" scale="" width="565" height="800" color="13421772"/>
+    <hardCover value="false" border="false" color="16100206" width="15" height="15"/>
+    <bookLang value="en"/>
+    <tocVisible value="true"/>
+    <slideshowVisible value="true"/>
+    <bookmarksVisible value="true"/>
+    <searchVisible value="true"/>
+    <navigationVisible value="true"/>
+    <singlePageMode value="false"/>
+    <rightToLeftMode value="false"/>
+    <skin style="ClassicGrey"/>
+    <sessionRestore value="false"/>
+  </bookProperties>
+</Properties>
