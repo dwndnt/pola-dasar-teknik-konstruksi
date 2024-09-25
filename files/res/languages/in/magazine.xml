@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<lang id="in">
-	<item name="LNG_LANGUAGE_NAME" label="Language ToolTip">in</item>
-	<item name="LNG_LOADING" label="Page Loading">Sedang memuat...</item>
-	<item name="LNG_BOOKEDGE_PAGENUMBER" label="Page Number">Halaman $1</item>
-	<item name="LNG_CLOSE" label="Close Button">Tutup</item>
-	<item name="LNG_VIEWFULLSCREEN">Klik untuk melihat dalam layar penuh</item>
-	<item name="LNG_ESCEXITFULLSCREEN">Esc untuk keluar dari layar penuh</item>
-</lang>
